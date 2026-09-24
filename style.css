@@ -1,0 +1,13 @@
+body{
+    background-color: whitesmoke;
+    border: 0px;
+}
+
+h3{
+    text-align: left;
+    margin-left: 45px;
+}
+.nav1 a{
+    text-align: center;
+    padding: 15px 10px;
+}
