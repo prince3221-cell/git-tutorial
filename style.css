@@ -4,6 +4,7 @@ body{
     border-radius: 0%;
 }
 
+
 h3{
     text-align: left;
     margin-left: 45px;
@@ -17,11 +18,11 @@ h3{
 }
 
 .nav1 a{
-    padding: 20px 18px;
+    padding: 10px;
     text-transform: capitalize;
     text-decoration: none;
     color: black;
-
+border-radius: 5px;
 }
 
 .nav1 a:hover{
@@ -46,4 +47,10 @@ h3{
     font-size: 70px;
     font-family: 'Times New Roman', Times, serif ;
 }
-.nav3{}
+.nav3{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+
