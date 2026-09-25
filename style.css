@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body{
     background-color: whitesmoke;
     border: 0px;
@@ -53,56 +53,3 @@ border-radius: 5px;
     align-items: center;
     gap: 25px;
 }
-
-
-=======
-body{
-    background-color: whitesmoke;
-    border: 0px;
-    border-radius: 0%;
-}
-
-h3{
-    text-align: left;
-    margin-left: 45px;
-    font-size: 30px;
-}
-.nav1{
-    
-    justify-content: center;
-    text-align: center;
-   
-}
-
-.nav1 a{
-    padding: 20px 18px;
-    text-transform: capitalize;
-    text-decoration: none;
-    color: black;
-
-}
-
-.nav1 a:hover{
-    background-color: black;
-    color: aqua;
-}
-.na{
-    position: relative;
-    top: -20px;
-    margin-left: 90%;
-    height: 35px;
-    width: 90px;
-    border-radius: 9px;
-    text-transform: capitalize;
-    font-size: 20px;
-    font-weight: 10px;
-}
-
-.nav2 header{
-    text-size-adjust: 35px;
-    text-transform: capitalize;
-    font-size: 70px;
-    font-family: 'Times New Roman', Times, serif ;
-}
-.nav3{}
->>>>>>> 96ef7f1438faf6f00d5b6bf7d0ac0d630a8ee343
